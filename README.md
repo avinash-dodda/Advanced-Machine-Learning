@@ -14,5 +14,5 @@ To buid a machine learning model to predict house prices in California using the
 * Train-test splitting
 * Build Linear model and residuals pattern
 * Build non-linear machine learning models and check out of sample performace for each model
-* Pick the best model
+* Pick the best model to predict house price
 
