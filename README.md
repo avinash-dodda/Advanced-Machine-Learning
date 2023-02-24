@@ -2,7 +2,7 @@
 This project is a demonstration of advanced machine learning analysis on California housing dataset.
 
 ## Objective
-To buid a machine learning model to predict house prices in California using the data collected on 20k+ homes
+To build a machine learning model to predict house prices in California using the data collected on 20k+ homes
 
 ## Steps Followed
 * The data is loaded form sklearn.datasets and converted to dataframe
@@ -13,6 +13,6 @@ To buid a machine learning model to predict house prices in California using the
 * Feature selection through linear model backward elimination
 * Train-test splitting
 * Build Linear model and residuals pattern
-* Build non-linear machine learning models and check out of sample performace for each model
+* Build non-linear machine learning models and check out of sample performance for each model
 * Pick the best model to predict house price
 
